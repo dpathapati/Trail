@@ -7,6 +7,7 @@ public class Demo_01 {
 		System.out.println("by pavan");
 		System.out.println("by pavan 2nd time");
 		System.out.println("by hari");
+		System.out.println("1");
 	}
 	
 }
